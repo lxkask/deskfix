@@ -1,0 +1,40 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx claude-code-templates@latest:*)",
+      "Bash(npx create-expo-app@latest . --template blank-typescript --yes)",
+      "Bash(npm install:*)",
+      "Bash(npm start)",
+      "Bash(npx expo start:*)",
+      "Bash(npx expo install:*)",
+      "Bash(netstat:*)",
+      "Bash(findstr:*)",
+      "Bash(cmd //c \"taskkill /PID 7696 /F & taskkill /PID 17416 /F\")",
+      "Bash(cmd //c \"taskkill /PID 28748 /F\")",
+      "Bash(taskkill:*)",
+      "Bash(cmd //c \"taskkill /PID 25616 /F\")",
+      "Bash(cmd //c \"taskkill /PID 6344 /F\")",
+      "Bash(cmd //c \"taskkill /PID 22608 /F\")",
+      "Bash(cmd //c \"taskkill /PID 7040 /F\")",
+      "Bash(cmd //c \"taskkill /PID 10576 /F\")",
+      "Bash(cmd //c \"taskkill /PID 12116 /F\")",
+      "Bash(cmd //c \"taskkill /PID 11516 /F\")",
+      "WebFetch(domain:localhost)",
+      "Bash(curl:*)",
+      "Bash(cmd //c \"taskkill /PID 7488 /F\")",
+      "Bash(cmd //c \"taskkill /PID 16968 /F\")",
+      "Bash(cmd //c \"taskkill /F /PID 25740\")",
+      "Bash(cmd //c \"taskkill /F /PID 22784\")",
+      "mcp__ide__getDiagnostics",
+      "Bash(tasklist:*)",
+      "Bash(npm run typecheck:*)",
+      "Bash(ls:*)",
+      "Bash(npm test:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

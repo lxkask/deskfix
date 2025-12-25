@@ -1,0 +1,146 @@
+{
+  "version": "1.1.0",
+  "last_updated": "2025-12-25T12:00:00Z",
+  "routines": [
+    {
+      "id": "neck-quick-relief",
+      "name": "Rychlá úleva - Krk",
+      "description": "Série protahovacích cviků pro uvolnění napětí v krční páteři. Ideální po dlouhém sezení u počítače.",
+      "target_body_part": "neck",
+      "duration_total": 180,
+      "exercises": [
+        { "exercise_id": "ex_001", "order": 1, "duration_override": 45 },
+        { "exercise_id": "ex_002", "order": 2, "duration_override": 45 },
+        { "exercise_id": "ex_001", "order": 3, "duration_override": 45 },
+        { "exercise_id": "ex_005", "order": 4, "duration_override": 45 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "shoulders-stretch",
+      "name": "Uvolnění ramen",
+      "description": "Kompletní rutina pro uvolnění ztuhlých ramen. Perfektní pro úlevu od napětí z práce u počítače.",
+      "target_body_part": "shoulders",
+      "duration_total": 180,
+      "exercises": [
+        { "exercise_id": "ex_002", "order": 1, "duration_override": 60 },
+        { "exercise_id": "ex_006", "order": 2, "duration_override": 60 },
+        { "exercise_id": "ex_002", "order": 3, "duration_override": 60 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "upper-back-relief",
+      "name": "Horní záda - Relief",
+      "description": "Cviky zaměřené na horní část zad a mezilopatkovou oblast. Pomáhá při shrbených zádech.",
+      "target_body_part": "upper_back",
+      "duration_total": 240,
+      "exercises": [
+        { "exercise_id": "ex_006", "order": 1, "duration_override": 60 },
+        { "exercise_id": "ex_002", "order": 2, "duration_override": 60 },
+        { "exercise_id": "ex_006", "order": 3, "duration_override": 60 },
+        { "exercise_id": "ex_001", "order": 4, "duration_override": 60 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "lower-back-relief",
+      "name": "Úleva pro bedra",
+      "description": "Cviky zaměřené na dolní část zad. Pomáhá při bolestech z dlouhého sezení.",
+      "target_body_part": "lower_back",
+      "duration_total": 300,
+      "exercises": [
+        { "exercise_id": "ex_004", "order": 1, "duration_override": 75 },
+        { "exercise_id": "ex_006", "order": 2, "duration_override": 60 },
+        { "exercise_id": "ex_004", "order": 3, "duration_override": 75 },
+        { "exercise_id": "ex_002", "order": 4, "duration_override": 45 },
+        { "exercise_id": "ex_004", "order": 5, "duration_override": 45 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "wrist-stretch",
+      "name": "Protažení zápěstí",
+      "description": "Prevence syndromu karpálního tunelu. Důležité pro každého, kdo pracuje s klávesnicí a myší.",
+      "target_body_part": "wrists",
+      "duration_total": 180,
+      "exercises": [
+        { "exercise_id": "ex_003", "order": 1, "duration_override": 45 },
+        { "exercise_id": "ex_011", "order": 2, "duration_override": 45 },
+        { "exercise_id": "ex_012", "order": 3, "duration_override": 40 },
+        { "exercise_id": "ex_003", "order": 4, "duration_override": 50 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "hip-opener",
+      "name": "Kyčle - Pro verze",
+      "description": "Pokročilá rutina pro uvolnění kyčlí. Vhodné po dlouhém sezení. Obsahuje hlubší protažení.",
+      "target_body_part": "hips",
+      "duration_total": 240,
+      "exercises": [
+        { "exercise_id": "ex_010", "order": 1, "duration_override": 60 },
+        { "exercise_id": "ex_013", "order": 2, "duration_override": 60 },
+        { "exercise_id": "ex_014", "order": 3, "duration_override": 60 },
+        { "exercise_id": "ex_010", "order": 4, "duration_override": 60 }
+      ],
+      "is_pro": true
+    },
+    {
+      "id": "random-micro",
+      "name": "Micro-drill",
+      "description": "Rychlý 30sekundový cvik. Ideální pro pravidelné přestávky během práce.",
+      "target_body_part": "general",
+      "duration_total": 30,
+      "exercises": [
+        { "exercise_id": "ex_001", "order": 1, "duration_override": 30 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "rt_001",
+      "name": "Rychlá kancelářská pauza",
+      "description": "3minutová rutina zaměřená na nejčastější problémy kancelářských pracovníků. Kombinace protažení šíje, ramen a zápěstí.",
+      "target_body_part": "general",
+      "duration_total": 180,
+      "exercises": [
+        { "exercise_id": "ex_001", "order": 1, "duration_override": 40 },
+        { "exercise_id": "ex_002", "order": 2, "duration_override": 40 },
+        { "exercise_id": "ex_012", "order": 3, "duration_override": 40 },
+        { "exercise_id": "ex_015", "order": 4, "duration_override": 40 },
+        { "exercise_id": "ex_005", "order": 5, "duration_override": 20 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "dvt-prevention",
+      "name": "DVT prevence",
+      "description": "Rutina pro prevenci hlubokožilní trombózy. Důležité při dlouhém sezení v letadle nebo kanceláři.",
+      "target_body_part": "legs",
+      "duration_total": 180,
+      "exercises": [
+        { "exercise_id": "ex_015", "order": 1, "duration_override": 45 },
+        { "exercise_id": "ex_010", "order": 2, "duration_override": 45 },
+        { "exercise_id": "ex_015", "order": 3, "duration_override": 45 },
+        { "exercise_id": "ex_013", "order": 4, "duration_override": 45 }
+      ],
+      "is_pro": false
+    },
+    {
+      "id": "rt_002",
+      "name": "Kompletní protažení horní části těla",
+      "description": "6minutová rutina pro důkladné protažení celé horní části těla. Zahrnuje krk, ramena, horní a dolní část zad.",
+      "target_body_part": "upper_back",
+      "duration_total": 360,
+      "exercises": [
+        { "exercise_id": "ex_001", "order": 1 },
+        { "exercise_id": "ex_002", "order": 2 },
+        { "exercise_id": "ex_006", "order": 3 },
+        { "exercise_id": "ex_004", "order": 4 },
+        { "exercise_id": "ex_003", "order": 5 },
+        { "exercise_id": "ex_005", "order": 6, "duration_override": 30 }
+      ],
+      "is_pro": true
+    }
+  ]
+}

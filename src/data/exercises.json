@@ -1,0 +1,171 @@
+{
+  "version": "1.1.0",
+  "last_updated": "2025-12-25T12:00:00Z",
+  "exercises": [
+    {
+      "id": "ex_001",
+      "name": "Protažení šíje do stran",
+      "description": "Skvělé cvičení pro uvolnění napětí v krční páteři. Pomalu nakloňte hlavu k rameni, zadržte na 15 sekund, pak pomalu ke druhému rameni.",
+      "video_url": "https://storage.deskfix.app/videos/neck-side-stretch.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/neck-side-stretch.jpg",
+      "duration_default": 60,
+      "target_body_part": ["neck"],
+      "tags": ["office-friendly", "sitting", "stretching", "beginner"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_002",
+      "name": "Krouživé pohyby rameny",
+      "description": "Uvolnění ramen a horní části zad. Ve vzpřímené pozici kroužte rameny dopředu 10x, pak dozadu 10x.",
+      "video_url": "https://storage.deskfix.app/videos/shoulder-circles.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/shoulder-circles.jpg",
+      "duration_default": 45,
+      "target_body_part": ["shoulders", "upper_back"],
+      "tags": ["office-friendly", "standing", "sitting", "strengthening"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_003",
+      "name": "Protažení zápěstí",
+      "description": "Důležité cvičení pro prevenci syndromu karpálního tunelu. Natáhněte paži před sebe, dlaní nahoru. Druhou rukou jemně přitahujte prsty směrem k sobě.",
+      "video_url": "https://storage.deskfix.app/videos/wrist-stretch.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/wrist-stretch.jpg",
+      "duration_default": 90,
+      "target_body_part": ["wrists"],
+      "tags": ["office-friendly", "sitting", "standing", "stretching"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_004",
+      "name": "Protažení dolní části zad",
+      "description": "Vsedě na židli se pomalu předkloňte, nechte ruce klesnout k podlaze. Zadržte na 30 sekund, cítíte protažení v dolní části zad.",
+      "video_url": "https://storage.deskfix.app/videos/lower-back-stretch.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/lower-back-stretch.jpg",
+      "duration_default": 75,
+      "target_body_part": ["lower_back", "hips"],
+      "tags": ["office-friendly", "sitting", "stretching"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_005",
+      "name": "Pravidlo 20-20-20 pro oči",
+      "description": "Každých 20 minut se podívejte na objekt vzdálený 6 metrů po dobu 20 sekund. Toto cvičení snižuje únavu očí.",
+      "video_url": "https://storage.deskfix.app/videos/eye-rule-20-20-20.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/eye-exercise.jpg",
+      "duration_default": 20,
+      "target_body_part": ["eyes"],
+      "tags": ["office-friendly", "sitting", "standing", "relaxation"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_006",
+      "name": "Otevírání hrudníku vstoje",
+      "description": "Postavte se vzpřímeně, sepněte ruce za zády a vytlačte hrudník dopředu. Zadržte 20 sekund. Kompenzuje shrbené držení těla.",
+      "video_url": "https://storage.deskfix.app/videos/chest-opener.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/chest-opener.jpg",
+      "duration_default": 60,
+      "target_body_part": ["upper_back", "shoulders"],
+      "tags": ["office-friendly", "standing", "stretching"],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "ex_007",
+      "name": "Rotace hlavy",
+      "description": "Pomalu otočte hlavu doprava, zadržte 10 sekund, pak doleva. Uvolňuje napětí v krční páteři a svalech šíje.",
+      "video_url": "https://storage.deskfix.app/videos/head-rotation.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/head-rotation.jpg",
+      "duration_default": 40,
+      "target_body_part": ["neck"],
+      "tags": ["office-friendly", "sitting", "stretching"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_008",
+      "name": "Zatahování brady",
+      "description": "Zasuňte bradu dozadu jako byste chtěli udělat dvojitou bradu. Zadržte 5 sekund, opakujte 10x. Posiluje hluboké svaly krku.",
+      "video_url": "https://storage.deskfix.app/videos/chin-tucks.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/chin-tucks.jpg",
+      "duration_default": 60,
+      "target_body_part": ["neck"],
+      "tags": ["office-friendly", "sitting", "strengthening"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_009",
+      "name": "Protažení trapézu",
+      "description": "Nakloňte hlavu k rameni a druhou rukou jemně přitáhněte. Cítíte protažení v horní části trapézu.",
+      "video_url": "https://storage.deskfix.app/videos/trapezius-stretch.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/trapezius-stretch.jpg",
+      "duration_default": 60,
+      "target_body_part": ["neck", "shoulders"],
+      "tags": ["office-friendly", "sitting", "stretching"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_010",
+      "name": "Koleno k hrudi vsedě",
+      "description": "Vsedě přitáhněte koleno k hrudi a zadržte 15 sekund. Uvolňuje dolní část zad a kyčle.",
+      "video_url": "https://storage.deskfix.app/videos/knee-to-chest.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/knee-to-chest.jpg",
+      "duration_default": 60,
+      "target_body_part": ["lower_back", "hips"],
+      "tags": ["office-friendly", "sitting", "stretching"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_011",
+      "name": "Protahování prstů",
+      "description": "Rozevřete prsty co nejšíře a zadržte 5 sekund, pak sevřete v pěst. Opakujte 10x. Prevence syndromu karpálního tunelu.",
+      "video_url": "https://storage.deskfix.app/videos/finger-stretches.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/finger-stretches.jpg",
+      "duration_default": 45,
+      "target_body_part": ["wrists"],
+      "tags": ["office-friendly", "sitting", "stretching", "beginner"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_012",
+      "name": "Kroužení zápěstím",
+      "description": "Kroužte zápěstím 10x ve směru hodinových ručiček, pak 10x proti. Uvolňuje napětí a zlepšuje prokrvení.",
+      "video_url": "https://storage.deskfix.app/videos/wrist-circles.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/wrist-circles.jpg",
+      "duration_default": 40,
+      "target_body_part": ["wrists"],
+      "tags": ["office-friendly", "sitting", "standing", "stretching"],
+      "difficulty": "beginner"
+    },
+    {
+      "id": "ex_013",
+      "name": "Protažení kyčelních flexorů",
+      "description": "Vsedě na kraji židle, jednu nohu natáhněte dozadu. Tlačte kyčel dopředu pro protažení. Zadržte 20 sekund na každou stranu.",
+      "video_url": "https://storage.deskfix.app/videos/hip-flexor-stretch.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/hip-flexor-stretch.jpg",
+      "duration_default": 60,
+      "target_body_part": ["hips"],
+      "tags": ["office-friendly", "sitting", "stretching"],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "ex_014",
+      "name": "Holubice vsedě",
+      "description": "Vsedě položte kotník jedné nohy na koleno druhé. Jemně tlačte koleno dolů pro protažení kyčle. 20 sekund na stranu.",
+      "video_url": "https://storage.deskfix.app/videos/seated-pigeon.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/seated-pigeon.jpg",
+      "duration_default": 60,
+      "target_body_part": ["hips", "lower_back"],
+      "tags": ["office-friendly", "sitting", "stretching"],
+      "difficulty": "intermediate"
+    },
+    {
+      "id": "ex_015",
+      "name": "Kroužení kotníky",
+      "description": "Zvedněte nohu a kroužte kotníkem 10x v každém směru. Prevence hlubokožilní trombózy (DVT) při dlouhém sezení.",
+      "video_url": "https://storage.deskfix.app/videos/ankle-circles.mp4",
+      "thumbnail_url": "https://storage.deskfix.app/thumbnails/ankle-circles.jpg",
+      "duration_default": 40,
+      "target_body_part": ["legs"],
+      "tags": ["office-friendly", "sitting", "stretching", "dvt-prevention"],
+      "difficulty": "beginner"
+    }
+  ]
+}
